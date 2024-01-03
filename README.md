@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Sharvi
 
 I am a passionate and self-motivated high school student with a strong foundation in python. I've been actively working on honing my coding skills and producing new projects.
-.
+
 📚 Education
-St. Marcellinus Secondary School - Graduation Year 2025
+- St. Marcellinus Secondary School - Graduation Year 2025
 
 💻 Technologies & Skills
 - Python
