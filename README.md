@@ -5,6 +5,9 @@ I am a self-motivated high school student with a strong foundation in python. I'
 ## 💻 Technologies & Skills
 - Python
 - Flask
+- HTML
+- CSS
+- SQL(sequel)
 - IDE's: Pycharm, VScode, replit
 
 ## 🌱 I’m Currently Exploring:
@@ -13,11 +16,8 @@ I am a self-motivated high school student with a strong foundation in python. I'
 - Different Frameworks such as Flask
 
 ## 🎯 Goals
-- Learn Sequel(SQL)
 - Contribute to Open Source: Start contributing to open-source projects and collaborate with the community.
 
-## 🤝Open to Collaboration
-- I'm open to collaborating on projects that align with my interests and skills. Whether you're a fellow student or an experienced developer.
 
 
 -->
